@@ -1,0 +1,4 @@
+repository "Ubisoft@SibirskiPlavac@cloud"
+  path "/"
+    br "/main"
+    co "/main"
